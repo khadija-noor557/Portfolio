@@ -6,3 +6,8 @@
  .purple{
   color: #5E3BEE !important;
  }
+
+ .container .expertise{
+    display: flex;
+    align-items: start !important;
+ }
