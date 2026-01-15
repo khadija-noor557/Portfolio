@@ -11,3 +11,12 @@
     display: flex;
     align-items: start !important;
  }
+
+ .about-me{
+   border: 1px solid darkgray !important;
+ }
+
+ .contact{
+
+text-align: center !important;
+ }
